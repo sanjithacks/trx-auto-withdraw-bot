@@ -11,4 +11,4 @@ Tron auto withdraw bot, tron sweeper bot
 - If wallet have not enough bandwith then 1 trx (for multisign) + 0.337 trx (as bandwidth) will be deducted as fee. 
 
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/betrosmedia)
+- 🔭 I’m currently working on Fiverr
